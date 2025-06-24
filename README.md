@@ -1,1 +1,1 @@
-# Cin-ma
+# Cinema
